@@ -1,13 +1,13 @@
 # Marketing Management
 
 ## Campaign Objective
-The goal of this course is to implement real marketing targeting the professor as the audience. The central figure in this marketing campaign is one of the group members. The objective is to promote this student to the professor, ensuring that the professor recognizes and remembers them by the end of the semester.
+The objective of this course is to execute practical marketing strategies with the professor as the target audience. A key element of this marketing campaign involves selecting one group member as the central figure. The primary goal is to effectively promote this student to the professor, ensuring that the professor not only acknowledges their presence but also remembers them by the conclusion of the semester.
 
 ## Implementation Strategy
-Our group's main idea is to promote the qualities of the student as being similar to a "mother." The promotion involves active participation in class by frequently raising hands and engaging in conversations with the professor during breaks. Additionally, the student plans to dress uniquely on Halloween to attract the professor's attention. This strategy has shown positive results, with the professor taking notice of our efforts. Since the professor is often in the United States for research and not on campus most of the time, we adjust the posting time on the Facebook page to the professor's local time zone. During special holidays, we send timely emails to the professor, such as providing information on family-friendly travel destinations during Thanksgiving.
+Our group's primary objective is to highlight the student's qualities by drawing a parallel with a "mother" figure. This approach entails active engagement in the classroom, including frequent participation by raising hands and engaging in discussions with the professor during breaks. Moreover, the student intends to dress uniquely on Halloween to capture the professor's attention. This strategic approach has yielded positive outcomes, as the professor has acknowledged our efforts. Given that the professor is often engaged in research activities in the United States and spends minimal time on campus, we adapt the posting schedule on our Facebook page to align with the professor's local time zone. Furthermore, on special occasions such as holidays, we ensure timely communication with the professor through emails, providing valuable information on family-friendly travel destinations during Thanksgiving.
 
 ## Responsibilities
-My main responsibilities include writing copy, video editing, photo editing, and brainstorming for social media posts. Throughout this process, I've learned that in addition to highlighting the product's features, it's crucial to connect the product's characteristics with consumers' daily lives to achieve resonance.
+Version 1: In my role, I am primarily accountable for tasks such as composing compelling content, editing videos and photos, as well as generating ideas for social media posts. This entire process has taught me the significance of not only emphasizing the attributes of the product but also establishing a meaningful connection between the product's qualities and the everyday lives of consumers. This connection is vital to create a sense of resonance.
 
 ## Facebook Page
 Link: https://www.facebook.com/Winnie.mother
