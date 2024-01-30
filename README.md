@@ -1,4 +1,30 @@
-# Marketing Mangement 行銷管理
+# Marketing Management
+
+## Campaign Objective
+The goal of this course is to implement real marketing targeting the professor as the audience. The central figure in this marketing campaign is one of the group members. The objective is to promote this student to the professor, ensuring that the professor recognizes and remembers them by the end of the semester.
+
+## Implementation Strategy
+Our group's main idea is to promote the qualities of the student as being similar to a "mother." The promotion involves active participation in class by frequently raising hands and engaging in conversations with the professor during breaks. Additionally, the student plans to dress uniquely on Halloween to attract the professor's attention. This strategy has shown positive results, with the professor taking notice of our efforts. Since the professor is often in the United States for research and not on campus most of the time, we adjust the posting time on the Facebook page to the professor's local time zone. During special holidays, we send timely emails to the professor, such as providing information on family-friendly travel destinations during Thanksgiving.
+
+## Responsibilities
+My main responsibilities include writing copy, video editing, photo editing, and brainstorming for social media posts. Throughout this process, I've learned that in addition to highlighting the product's features, it's crucial to connect the product's characteristics with consumers' daily lives to achieve resonance.
+
+## Facebook Page
+Link: https://www.facebook.com/Winnie.mother
+
+## Facebook Page Screenshots
+- Caring Greetings Like a Mother:
+<img width="445" alt="截圖 2023-04-17 下午8 46 20" src="https://user-images.githubusercontent.com/100358083/232488147-7d926e82-152c-4ab6-8da7-08f71e20db0a.png">
+
+- Collaboration with Other Students (The student's main feature is children), themed around a mother taking her child out to play, not wanting to go home in the end:
+The professor also left a comment under the post! 😊
+
+<img width="445" alt="截圖 2023-04-17 下午8 43 55" src="https://user-images.githubusercontent.com/100358083/232487537-3aa498be-629d-4527-a7ff-e91127966b52.png">
+
+
+
+
+# 行銷管理
 
 ## 作業目標
 本課程的需要真實的去做行銷，對象是授課教授，主要的行銷主角時組內的其一成員。可以透過任何方式，向老師做宣傳，並要讓老師在學期末時認識並記住這位成員。
